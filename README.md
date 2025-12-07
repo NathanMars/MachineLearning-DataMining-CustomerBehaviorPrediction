@@ -1,4 +1,4 @@
-# MachineLearning_DataMining_CustomerBehaviorPrediction  
+# Previsor de Comportamento de Clientes com Machine Learning
 Este projeto usa técnicas de Machine Learning e Mineração de Dados para interpretar o comportamento de um grande volume de clientes de um serviço. O projeto é focado em aprendizado não supervisionado, empregando as seguintes técnicas:
 - K-Means Clusters
 - Hierarchical Clusters
